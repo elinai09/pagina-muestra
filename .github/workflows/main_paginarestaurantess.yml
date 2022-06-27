@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'paginarestaurantess'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_75954CE19D364DBC8112D259859C2165 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C8C1E9605FF4A2386BEF9157636AB1C }}
           package: .
