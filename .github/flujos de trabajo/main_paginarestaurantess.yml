@@ -58,3 +58,57 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C8C1E9605FF4A2386BEF9157636AB1C }}
           package: .
+TÍTULO:
+Foodee - Plantilla HTML5 gratuita responsiva de una página
+
+AUTOR:
+DISEÑADO Y DESARROLLADO por FREEHTML5.co
+
+Sitio web: http://freehtml5.co/ 
+Twitter: http://twitter.com/fh5co 
+Facebook: http://facebook.com/fh5co
+
+
+CRÉDITOS:
+
+Oreja
+http://getbootstrap.com/
+
+Selector de fecha y hora de Bootstrap
+https://github.com/Eonasdan/bootstrap-datetimepicker
+
+jQuery
+http://jquery.com/
+
+Facilitación de jQuery
+http://gsgd.co.uk/sandbox/jquery/easing/
+
+modernizar
+http://modernizr.com/
+
+Fuentes de Google
+https://www.google.com/fonts/
+
+Icomoon
+https://icomoon.io/app/
+
+Iconos de línea simple
+https://github.com/thesabbir/simple-line-icons
+
+Responder JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animar.css
+http://daneden.me/animate
+
+punto de ruta jQuery
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Paralaje estelar
+http://markdalgleish.com/projects/stellar.js/
+
+Imágenes de demostración:
+http://pexels.com
+
+Imágenes de iconos dibujadas a mano
+handdrawngoods.com/store/tasty-icons-free-food-icons/
